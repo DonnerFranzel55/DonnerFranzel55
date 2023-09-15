@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DonnerFranzel55
 - 👀 I’m interested in Software Engeneering, Hacking, Cyber Security
-- 🌱 I’m currently learning JS, Java, BS, HTML, CSS, Git
+- 🌱 I’m currently learning Angular, CSS, Git, NodeJS, Express, MongoDB
