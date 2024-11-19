@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Devin</h1>
-<h3 align="center">I'm a software developer at the beginning of an apprenticeship.</h3>
+<h3 align="center">I'm a software developer.</h3>
 <h6 align="center">And I ❤️ OpenSource</h6>
 
 - 🌱 I’m currently learning **RxJS, Cors, Networks**
 
-- ⚡ Fun fact **I love OpenSource**
+- ⚡ Fun fact **I love OpenSource, Data Structures and Icons**
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
