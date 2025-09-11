@@ -2,9 +2,9 @@
 <h3 align="center">I'm a software developer.</h3>
 <h6 align="center">And I ❤️ OpenSource</h6>
 
-- 🌱 I’m currently learning **RxJS, Cors, Networks**
+- 🌱 I’m currently learning **Go**
 
-- ⚡ Fun fact **I love OpenSource, Data Structures and Icons**
+- ⚡ Fun fact **I love OpenSource**
 
 <h3 align="left">Languages:</h3>
 <p align="left"> 
