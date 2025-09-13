@@ -117,4 +117,4 @@
     </a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donnerfranzel55&show_icons=true&locale=en" alt="donnerfranzel55"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=donnerfranzel55&show_icons=true&locale=en&bg_color=30,ec4899,fb7185&title_color=fff&text_color=fff" alt="donnerfranzel55"/></p>
