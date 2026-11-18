@@ -32,6 +32,9 @@
     <a href="https://www.sass-lang.com/" target="_blank" rel="noreferrer"> 
         <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
     </a>
+    <a href="https://www.sass-lang.com/" target="_blank" rel="noreferrer"> 
+        <img src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>
+    </a>
 </p>
 
 <h3 align="left">Frameworks:</h3>
